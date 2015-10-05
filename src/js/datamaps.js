@@ -966,7 +966,8 @@
           color = subunitData.color;
         }
         else {
-          color = this.options.fills[ subunitData.fillKey ];
+          //color = this.options.fills[ subunitData.fillKey ];
+          color = val (subunitData.fillKey, subunitData.fillColor);
         }
         //if it's an object, overriding the previous data
         if ( subunitData === Object(subunitData) ) {
