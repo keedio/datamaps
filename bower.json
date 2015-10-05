@@ -1,12 +1,13 @@
 {
-  "name": "datamaps",
-  "version": "0.4.0",
-  "homepage": "https://github.com/markmarkoh/datamaps",
+  "name": "keedio-datamaps",
+  "version": "1.0.0",
+  "homepage": "https://github.com/keedio/datamaps",
   "authors": [
     "Mark DiMarco<markmarkoh@gmail.com>"
   ],
   "contributors": [
-    "Dave Long (dave@davejlong.com)"
+    "Dave Long (dave@davejlong.com)",
+    "Rodrigo Olmo (rolmo@keedio.com)"
   ],
   "description": "Interactive maps for data visualizations. Bundled into a single Javascript file.",
   "main": [
